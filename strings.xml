@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">SimpleListViewSample1</string>
-    <string-array name="CTGTHANA">
-        <item>Anowara</item>
-        <item>Bashkhali</item>
-        <item>Boalkhali</item>
-    </string-array>
-
-</resources>
